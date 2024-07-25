@@ -1,5 +1,5 @@
 - Hi, I’m @kennedy94
-- I’m interested in metaheuristics, integer programming, optimization, and scheduling, regression, clustering, and classification problems
+- I’m interested in metaheuristics, integer programming, optimization, and machine learning areas; and scheduling, regression, clustering, and classification problems
 
 <!---
 kennedy94/kennedy94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
